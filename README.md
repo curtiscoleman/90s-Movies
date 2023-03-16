@@ -1,6 +1,8 @@
 # CodeKY-Project
 This project is very simple to run and follow along with. It is structured in a notebook using Python (see version in 'requirements.txt') and essentially goes step by step.
 
+## In this project I set out to determine what the most popular Genre of film was for the decade I was born in, The 90s. While initially, this was for fun, in the midst of exploring, I started to wonder if there might be any correlation between what was most liked at the time and what my generation likes now. I was interested to see how much the results differed based on public opinion vs. dollars spent. My findings based on average gross sales were not surprising. My generation LOVES animation. Even as adults a lot of my peers still actively consume Animated media in some way. 
+
 Instructions:
 
 1. Clone the repository from GitHub to your local environment (or peruse through at your leisure on GitHub's website).
