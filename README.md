@@ -1,4 +1,4 @@
-# CodeKY-Project
+# 90s-Movies
 This project is very simple to run and follow along with. It is structured in a notebook using Python (see version in 'requirements.txt') and essentially goes step by step.
 
 ## Project description:
